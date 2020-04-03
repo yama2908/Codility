@@ -1,2 +1,2 @@
 # Codility
-Written in Python
+All solved in Python
